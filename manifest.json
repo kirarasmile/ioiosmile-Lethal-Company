@@ -1,7 +1,7 @@
 {
     "name": "OIOISmileModPack",
     "version_number": "1.0.0",
-    "website_url": "https://deppy.loves-cats.lol/yanm517i.mp4",
+    "website_url": "https://github.com/kirarasmile/ioiosmile-Lethal-Company",
     "description": "smile和他的小伙伴使用的模组整合包",
     "dependencies": [
         "2018-LC_API-2.2.0",
