@@ -1,11 +1,11 @@
 {
     "name": "OIOISmileModPack",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/kirarasmile/ioiosmile-Lethal-Company",
     "description": "smile和他的小伙伴使用的模组整合包",
     "dependencies": [
         "2018-LC_API-2.2.0",
-        "HookGenPatcher-Evaisa-0.0.5",
+        "Evaisa-HookGenPatcher-0.0.5",
         "BepInEx-BepInExPack-5.4.2100",
         "Evaisa-LethalLib-0.6.3",
         "Sligili-More_Emotes-1.2.2",
